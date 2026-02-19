@@ -2,7 +2,7 @@
 title:  「游趣体」1.000 版本更新
 published: 2026-02-17
 pinned: false
-description: 2026 年 2 月 17 日发行的「游趣体」1.000 版本更新内容。
+description: 2026 年 2 月 17 日「游趣体」简体版更新 1.000 版本，同时繁体版初版发行。
 image: "./cover.jpg"
 tags: [游趣体, 字体, 更新, 设计]
 category: 更新日志
@@ -13,18 +13,19 @@ draft: false
 自 2024 年 8 月以来，本人修改衍生的字体逐渐在各个地方广泛使用。出现在实体店的设计中、视频封面里，甚至出现在了漫画当中。一直以来，作为字体开发者的本人尝试为这款字体制作一个宣传视频，可惜由于种种原因，迟迟没有完成。但如今，这部宣传视频——它来了。
 
 # 新年首更，开源免费，风格活泼 | 「游趣体 / Child Fun Sans」
+
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116081389737325&bvid=BV1p4Z3B2ECE&cid=36111190134&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-2020 年 12 月，日本著名字体厂商 FONTWORKS（今 MonoType 株式会社）在 GitHub 上发布了 7 款日文字体，分别为 [Train](https://github.com/fontworks-fonts/Train)、[Klee](https://github.com/fontworks-fonts/Klee)、[Stick](https://github.com/fontworks-fonts/Stick)、[Rock-n-Roll](https://github.com/fontworks-fonts/RocknRoll)、[Reggae](https://github.com/fontworks-fonts/Reggae)、[Rampart](https://github.com/fontworks-fonts/Rampart) 和 [DotGothic16](https://github.com/fontworks-fonts/DotGothic16)，根据 SIL Open Font License 1.1 授权许可开源。7 款开源日文字体各有各的特点，在 2024 年 7 月之前，已有其中 3 款拥有相应的简体中文改版字体：
-- **<ruby>Klee<></ruby> One** 被衍生成了众所周知的[「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai)，得到广泛使用；
-- **Rock-n-Roll** 的衍生中文字体[「龙珠体」](https://github.com/maoken-fonts/LongZhuTi)也广泛见于海报、视频封面、字幕等地方，拥有不错反响。
-- **Reggae** 衍生成的[「铁蒺藜体」](https://github.com/Buernia/Tiejili)因支持漫画用标点等特性，为漫画嵌字领域提供了一种新的选择。
+2020 年 12 月，日本著名字体厂商 FONTWORKS（今 MonoType 株式会社）在 GitHub 上发布了 7 款日文字体，分别为 [<ruby>Train<rp>(</rp><rt>トレイン</rt><rp>)</rp></ruby>](https://github.com/fontworks-fonts/Train)、[Klee](https://github.com/fontworks-fonts/Klee)、[Stick](https://github.com/fontworks-fonts/Stick)、[RocknRoll](https://github.com/fontworks-fonts/RocknRoll)、[Reggae](https://github.com/fontworks-fonts/Reggae)、[<ruby>Rampart<rp>(</rp><rt>ランパート</rt><rp>)</rp></ruby>](https://github.com/fontworks-fonts/Rampart) 和 [<ruby>DotGothic<rp>(</rp><rt>ドットゴシック</rt><rp>)</rp></ruby>16](https://github.com/fontworks-fonts/DotGothic16)，根据 SIL Open Font License 1.1 授权许可开源。7 款开源日文字体各有各的特点，在 2024 年 7 月之前，已有其中 3 款拥有相应的简体中文改版字体：
+- **<ruby>Klee<rp>(</rp><rt>クレー</rt><rp>)</rp></ruby> One** 被衍生成了众所周知的[「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai)，得到广泛使用；
+- **<ruby>RocknRoll<rp>(</rp><rt>ロックンロール</rt><rp>)</rp></ruby> One** 的衍生中文字体[「龙珠体」](https://github.com/maoken-fonts/LongZhuTi)也广泛见于海报、视频封面、字幕等地方，拥有不错反响。
+- **<ruby>Reggae<rp>(</rp><rt>レゲエ</rt><rp>)</rp></ruby> One** 衍生成的[「铁蒺藜体」](https://github.com/Buernia/Tiejili)因支持漫画用标点等特性，为漫画嵌字领域提供了一种新的选择。
 
 在剩下来没有相应衍生的中文字体中，除了 Stick，其余 3 款字体因均由同一款字体（目测是 Happy Rodin，商用需授权）变换而成，且支持字数有限，修改意义不大，鉴于此，2024 年起，本人开始了为 Stick 这一风格独特的日文开源字体补全中文常用字的尝试，并在同年 7 月发布第一版。
 
 ## 简体版重大更新
 
-原始字体 <ruby><rb>Stick</rb><rp>(</rp><rt>ステッキ</rt><rp>)</rp></ruby> 是一种带有可爱调皮的气氛的字体，其造型像笔杆一样以直线设计。此外，由于它可以表达田园诗一般的气氛，它也是一种可广泛用于纸张媒体和数字内容的字体。「游趣体」基于它改造，也继承了原始字体的特点：笔形像笔杆一样以直线设计，既可爱调皮，亦有田园写意风格。本人基于 Fontworks 出品的日文字体 Stick 扩充、调整字形，并编辑、适当增加 OpenType 特性，以满足简体中文环境的使用需求。
+原始字体 <ruby>Stick<rp>(</rp><rt>ステッキ</rt><rp>)</rp></ruby> 是一种带有可爱调皮的气氛的字体，其造型像笔杆一样以直线设计。此外，由于它可以表达田园诗一般的气氛，它也是一种可广泛用于纸张媒体和数字内容的字体。「游趣体」基于它改造，也继承了原始字体的特点：笔形像笔杆一样以直线设计，既可爱调皮，亦有田园写意风格。本人基于 Fontworks 出品的日文字体 Stick 扩充、调整字形，并编辑、适当增加 OpenType 特性，以满足简体中文环境的使用需求。
 
 在这一年多的时间里，字体迭代了多个版本，迄今为止这款字体已经不仅支持 [GB/T 2312](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 标准所包含的字符，而且已经完美支持[《通用规范汉字表》](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt)所包含的字符，足以满足日常使用和义务教育用途。尽管如此，在实际应用层面仍存在部分字符不能正常支持的现象，比如「挼」「冇」「𩉜(⿰革几，`U+2925C`)」等。所以，在参照了众多外字表后，我们选择性地增加了一些不在原定计划内，但实际很常用的外字，尽可能解决此类问题，这些字源自各个领域，包括语言、人文、常用地名等等。即使是笔画繁多，结构复杂的「𰻝(⿺辶⿳穴⿲月⿱⿲幺言幺⿲长马长刂心，`U+30EDD`，繁体`U+30EDE`)」字也考虑在内。
 ![](./Update.jpg)
@@ -42,7 +43,7 @@ draft: false
 
 简体范围的开发已经完成，但从长远来看，开发历程目前并没有结束。一年多以来，简体版正在补齐的发展历程中，另一边也有人开始了补字历程。尽管在补字过程中，有其他制作者发布了繁体版本，是以传承字形为主的。但本人制作繁体版的历程并不会因此停止。相较于传统正文与标题字，艺术字向来在构型方面更为宽容，因而笔形更为多样。观者对艺术字的多样笔形也更为接受。考虑到 Stick 的部分笔形具有一定手写感，「游趣体」繁体版计划发布现代字形版本，采用折中印刷字形，在传统字形基础上，兼顾当代惯用部件写法。
 
-即将初次发行的繁体版，将支持台湾地区的《常用国字标准字体表》4808 个繁体常用汉字，<ruby>五大码<rp>（</rp><rt>Big 5</rt><rp>）</rp></ruby>一级字 5401 个，支持程度相当于简体版支持常用 3500 字。考虑使用繁体中文用户的使用习惯，繁体版全角标点（主要调整`，` `．` `、` `。`）居中，弯引号（“”）默认采用比例宽度。<sups>①</sups>
+即将初次发行的繁体版，将支持台湾地区的《常用国字标准字体表》4808 个繁体常用汉字，<ruby>五大码<rp>（</rp><rt>Big 5</rt><rp>）</rp></ruby>一级字 5401 个，支持程度相当于简体版支持常用 3500 字。考虑使用繁体中文用户的使用习惯，繁体版全角标点（主要调整`，` `．` `、` `。`）居中，弯引号（“”）默认采用比例宽度<sup>①</sup>。
 
 各位用户可通过 GitHub 项目获取本系列字体的繁体版：
 ::github{repo="Des-Magmeta/ChildFunSans-TC"}

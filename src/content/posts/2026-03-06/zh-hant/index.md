@@ -1,5 +1,5 @@
 ﻿---
-title: 我永遠無法原諒《爲什麽 Glyphs 沒有 Windows 版》
+title: (繁) 我永遠無法原諒《爲什麽 Glyphs 沒有 Windows 版》
 published: 2026-03-06
 pinned: false
 description: "一篇對 Glyphs 官方《爲什麽 Glyphs 沒有 Windows 版》文章的吐槽和評論。"
@@ -8,7 +8,7 @@ tags: ["Glyphs", "评论", "生活"]
 category: 生活
 draft: false
 ---
-[<span lang="zh-hans">简体中文</span>](./index.md) | <span lang="zh-hant">繁體中文</span>
+[<span lang="zh-hans">简体中文</span>](https://des-magmeta.github.io/posts/2026-03-06/zh-hans/) | <span lang="zh-hant">繁體中文</span>
 ---
 <div lang="zh-hant">
 「搞字型設計，那得多酷啊！筆劃一拉，襯線一加，國際范兒就上來了！」
@@ -38,3 +38,4 @@ draft: false
 字型設計的魅力，在於它能跨越界限展示文字之美，傳達情感與思想。這種魅力，不應被作業系統的壁壘所束縛。我們希望 Glyphs 能早日醒悟，打破「系統歧視」之枷鎖，以開放包容的姿態迎接每一位熱愛字型設計的愛好者。畢竟，只有讓更多人參與進來，字型設計行業才能真正煥發生機。
 
 </div>
+

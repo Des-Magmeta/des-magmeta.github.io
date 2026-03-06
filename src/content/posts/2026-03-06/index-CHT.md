@@ -8,8 +8,11 @@ tags: ["Glyphs", "评论", "生活"]
 category: 生活
 draft: false
 ---
+
 [<span lang="zh-hans">简体中文</span>](./index.md) | <span lang="zh-hant">繁體中文</span>
+
 ---
+
 <div lang="zh-hant">
 「搞字型設計，那得多酷啊！筆劃一拉，襯線一加，國際范兒就上來了！」
 
@@ -19,11 +22,11 @@ draft: false
 
 然而令人遺憾的是，Glyphs 軟體只能在 Mac 上使用，這對普遍使用 Windows 的用戶而言極其不友好。
 
-在 2022 年 8 月 4 日，Glyphs 官方發表了一篇文章，名為[《為什麼 Glyphs 沒有 Windows 版》](https://glyphsapp.com/zh/learn/why-there-is-no-windows-version-of-glyphs)，解釋了 Glyphs 一直以來只推出 Mac 版而不推出 Windows 版的原因。作為一名業餘字型愛好者，當我好奇其原因，點開這篇聲明，以為能看到技術壁壘、開發難度等客觀理由時，卻只看到了一場充滿優越感的「凡爾賽式」炫耀，字裏行間的傲慢與偏見，像一根刺，狠狠紮在每一個渴望公平的設計師和業餘字型愛好者心上。
+在 2022 年 8 月 4 日，Glyphs 官方發表了一篇文章，名為[《為什麼 Glyphs 沒有 Windows 版》](https://glyphsapp.com/en/learn/why-there-is-no-windows-version-of-glyphs)，解釋了 Glyphs 一直以來只推出 Mac 版而不推出 Windows 版的原因。作為一名業餘字型愛好者，當我好奇其原因，點開這篇聲明，以為能看到技術壁壘、開發難度等客觀理由時，卻只看到了一場充滿優越感的「凡爾賽式」炫耀，字裏行間的傲慢與偏見，像一根刺，狠狠紮在每一個渴望公平的設計師和業餘字型愛好者心上。
 
 聲明裏那些看似冠冕堂皇的理由，在 Windows 用戶眼中更像是敷衍的藉口。「雖然我們通常並不拒絕跨平臺，但在現階段而言，涉足 Windows 在經濟上並不可行。」官方這一聲明在本人看來極其荒謬。眾所周知，全球 PC 市場 80% 以上的份額被 Windows 佔據，其使用量明顯高於 Mac，按照官方假設「每一份請求都轉化為一份正版銷售」，理應賺得盆滿缽滿。官方竟聲稱此類情形下「銷售額也無法抵扣開發和支援的額外開銷」「我們必須投資個六位數來換取每年幾百美元的預期收入」，明顯更像是對市場需求的刻意漠視，對用戶選擇的粗暴否定。
 
-此外，稍微瞭解行業的人都清楚，如今跨平臺開發早已不是什麼天方夜譚。從設計軟體到辦公套件，無數產品都實現了 Windows 與 Mac 系統的完美相容。而在一系列字體設計軟體中，FontCreator 官方 High-Logic 於 2024 年 9 月[宣佈已經支持 Mac 版](https://www.high-logic.com/zh/news/fontcreator-for-macos-released)（此前僅支持 Windows 版）。對比之下，Glyphs 至今仍沒有 Windows 版，這對想用 Glyphs 的 Windows 用戶而言，無疑是一種難以彌補的遺憾。
+此外，稍微瞭解行業的人都清楚，如今跨平臺開發早已不是什麼天方夜譚。從設計軟體到辦公套件，無數產品都實現了 Windows 與 Mac 系統的完美相容。而在一系列字體設計軟體中，FontCreator 官方 High-Logic 於 2024 年 9 月[宣佈已經支持 Mac 版](https://www.high-logic.com/en/news/fontcreator-for-macos-released)（此前僅支持 Windows 版）。對比之下，Glyphs 至今仍沒有 Windows 版，這對想用 Glyphs 的 Windows 用戶而言，無疑是一種難以彌補的遺憾。
 
 為何偏偏 Glyphs 就愛搞「特殊」？說到底，不過是骨子裏的傲慢在作祟。在文中，他們甚至引以為傲地宣稱「字體設計是一項 Mac 的活計」，可當我們看到 Windows 用戶正在使用 FontCreator、FontLab、FontForge 等軟體製作字體時，你就會發現這話背後透露著 Glyphs 官方一股傲慢的氣息。Mac 似乎已經成為了 Glyphs 官方的精神圖騰和皈依，寧願蜷縮在 Mac 用戶的小圈子裏，享受著「精英工具」的虛假光環，也不願放下身段服務使用 Windows 進行設計的愛好者和設計師，仿佛 Windows 用戶就不配踏入高端字體設計的大門。這種將使用者群體進行「階級劃分」的做法，不僅是對 Windows 用戶選擇的粗暴否定，更是暴露出 Glyphs 既想賺「蘋果人」的錢，又不想承擔服務大眾的責任，可以說是典型的又當又立。
 
@@ -38,3 +41,4 @@ draft: false
 字型設計的魅力，在於它能跨越界限展示文字之美，傳達情感與思想。這種魅力，不應被作業系統的壁壘所束縛。我們希望 Glyphs 能早日醒悟，打破「系統歧視」之枷鎖，以開放包容的姿態迎接每一位熱愛字型設計的愛好者。畢竟，只有讓更多人參與進來，字型設計行業才能真正煥發生機。
 
 </div>
+

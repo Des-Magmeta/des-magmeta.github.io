@@ -9,7 +9,7 @@ category: 生活
 draft: false
 
 ---
-[<span lang="zh-hans">简体中文</span>](https://des-magmeta.github.io/posts/2026-03-06/zh-hans/) | [<span lang="zh-hant">繁體中文</span>](https://des-magmeta.github.io/posts/2026-03-06/zh-hant/) | <span lang="ja">日本語</span>
+[<span lang="zh-hans">简体中文</span>](https://des-magmeta.github.io/posts/2026-03-06/zh-hans/) | [<span lang="zh-hant">繁體中文</span>](https://des-magmeta.github.io/posts/2026-03-06/zh-hant/) | <span lang="ja">日本語</span> | [English](https://des-magmeta.github.io/posts/2026-03-06/en/)
 
 ---
 

@@ -1,8 +1,8 @@
 ﻿---
-title: (繁) 我永遠無法原諒《為什麽 Glyphs 沒有 Windows 版》
+title: (繁) 我永遠無法原諒《為什麼 Glyphs 沒有 Windows 版》
 published: 2026-03-06
 pinned: false
-description: "一篇對 Glyphs 官方《為什麽 Glyphs 沒有 Windows 版》文章的吐槽和抨擊，語言不尖銳，就是抨擊不夠有力。"
+description: "一篇對 Glyphs 官方《為什麼 Glyphs 沒有 Windows 版》文章的吐槽和抨擊，語言不尖銳，就是抨擊不夠有力。"
 image: "./cover_zh-hant.jpg"
 tags: ["Glyphs", "评论", "生活"]
 category: 生活
@@ -25,7 +25,7 @@ draft: false
 
 在 2022 年 8 月 4 日，Glyphs 官方發表了一篇文章，名為[《為什麼 Glyphs 沒有 Windows 版》](https://glyphsapp.com/learn/why-there-is-no-windows-version-of-glyphs)，解釋了 Glyphs 一直以來只推出 Mac 版而不推出 Windows 版的原因。作為一名業餘字型愛好者，當我好奇其原因，點開這篇聲明，以為能看到技術壁壘、開發難度等客觀理由時，卻只看到了一場充滿優越感的「凡爾賽式」炫耀，字裏行間的傲慢與偏見，像一根刺，狠狠紮在每一個渴望公平的設計師和業餘字型愛好者的心上。
 
-![Glyphs 官網《為什麽 Glyphs 沒有 Windows 版》原文](https://raw.githubusercontent.com/Des-Magmeta/des-magmeta.github.io/main/src/content/posts/2026-03-06/zh-hant/glyphs-no-windows_zh-hant.jpeg)  
+![Glyphs 官網《為什麼 Glyphs 沒有 Windows 版》原文](https://raw.githubusercontent.com/Des-Magmeta/des-magmeta.github.io/main/src/content/posts/2026-03-06/zh-hant/glyphs-no-windows_zh-hant.jpeg)  
 
 聲明裏那些看似冠冕堂皇的理由，在 Windows 用戶眼中更像是敷衍的藉口。「雖然我們通常並不拒絕跨平臺，但在現階段而言，涉足 Windows 在經濟上並不可行。」官方這一聲明在本人看來極其荒謬。眾所周知，全球 PC 市場 80% 以上的份額被 Windows 佔據，其使用量明顯高於 Mac，按照官方假設「每一份請求都轉化為一份正版銷售」，理應賺得盆滿缽滿。官方竟聲稱此類情形下「銷售額也無法抵扣開發和支援的額外開銷」「我們必須投資個六位數來換取每年幾百美元的預期收入」，明顯更像是對市場需求的刻意漠視，對用戶選擇的粗暴否定。
 
@@ -45,5 +45,5 @@ draft: false
 
 字型設計的魅力，在於它能跨越界限展示文字之美，傳達情感與思想。這種魅力，不應被作業系統的壁壘所束縛。我在此希望 Glyphs 能早日醒悟，打破「系統歧視」之枷鎖，以開放包容的姿態迎接每一位熱愛字型設計的愛好者。畢竟，只有讓更多人參與進來，字型設計行業才能真正煥發生機。
 
-~~只要 Glyphs 一日不打算開發 Windows 版，我就永遠無法原諒《為什麽 Glyphs 沒有 Windows 版》！~~
+~~只要 Glyphs 一日不打算開發 Windows 版，我就永遠無法原諒《為什麼 Glyphs 沒有 Windows 版》！~~
 </div>

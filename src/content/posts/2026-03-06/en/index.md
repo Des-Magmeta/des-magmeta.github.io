@@ -2,6 +2,7 @@
 title: (En) I’ll Never Forgive “Why There’s no Windows Version of Glyphs”
 published: 2026-03-06
 pinned: false
+lang: en
 description: "A critique and rebuttal of Glyphs' official article “Why There’s no Windows Version of Glyphs”. No sharp words, no sufficient force."
 image: "./cover_en.jpg"
 tags: ["Glyphs", "Comment", "Life"]

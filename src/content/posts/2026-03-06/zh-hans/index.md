@@ -2,6 +2,7 @@
 title: (简) 我永远无法原谅《为什么 Glyphs 没有 Windows 版》
 published: 2026-03-06
 pinned: false
+lang: zh-CN
 description: "一篇对 Glyphs 官方《为什么 Glyphs 没有 Windows 版》文章的吐槽和抨击。语言不尖锐，就是抨击不够有力。"
 image: "./cover_zh-hans.jpg"
 tags: ["Glyphs", "评论", "生活"]

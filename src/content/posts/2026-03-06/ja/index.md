@@ -2,6 +2,7 @@
 title: (日) 『なぜ Glyphs には Windows 版がないのか』を絶対に許せない
 published: 2026-03-06
 pinned: false
+lang: ja
 description: "Glyphs 公式の「なぜ Glyphs には Windows 版がないのか」という記事に対する不満と批判の投稿で、言葉は鋭くないが、批判が十分に力強くないものです。"
 image: "./cover_ja.jpg"
 tags: ["Glyphs", "コメント", "生活"]

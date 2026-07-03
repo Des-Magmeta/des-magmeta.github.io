@@ -1,6 +1,6 @@
 ---
 title: 以开源字体爱好者之名：我严正奉劝你们，开源不是你们为所欲为的免死金牌
-published: 2026-07-01
+published: 2026-07-04
 pinned: false
 image: "./cover_zh-hans.jpg"
 lang: zh-CN

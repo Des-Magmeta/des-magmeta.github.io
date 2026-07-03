@@ -1,7 +1,7 @@
 ---
 title: 「游趣体」字体项目介绍
 published: 2025-12-18
-pinned: true
+pinned: false
 description: "一款开源简体中文字体，基于 Fontworks（今 Monotype 株式会社）的 Stick 衍生。"
 image: "./cover.jpg"
 tags: ["SIL OFL 1.1", "开源", "字体", "设计"]
